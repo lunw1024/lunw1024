@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
-<h3 align="center">A college student</h3>
+<h3 align="center">Freshman @ Harvey Mudd College</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lunw1024&label=Profile%20views&color=0e75b6&style=flat" alt="lunw1024" /> </p>
 
